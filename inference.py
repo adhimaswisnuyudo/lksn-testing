@@ -26,7 +26,7 @@ def predict_sentiment(texts, model_path, vectorizer_path):
 
 if __name__ == "__main__":
     # Contoh penggunaan
-    BUCKET = os.environ.get('S3_BUCKET', 'lkse2025-sentiment-yourname')
+    BUCKET = os.environ.get('S3_BUCKET', 'lkse2025-sentiment-jabar')
     MODEL_KEY = 'sentiment_model.pkl'
     VECTORIZER_KEY = 'vectorizer.pkl'
 
