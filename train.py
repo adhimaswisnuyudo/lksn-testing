@@ -5,6 +5,8 @@ from sklearn.linear_model import LogisticRegression
 import joblib
 import boto3
 import os
+print("Files in current dir:", os.listdir())
+
 
 # Load dataset
 df = pd.read_csv('product_reviews.csv')
