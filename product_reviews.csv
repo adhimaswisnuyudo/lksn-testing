@@ -1,0 +1,21 @@
+id,review,sentiment
+1,Produk ini sangat bagus dan pengirimannya cepat,positive
+2,Kualitasnya buruk dan tidak sesuai deskripsi,negative
+3,"Biasa saja, tidak terlalu istimewa",neutral
+4,Saya sangat puas dengan pembelian ini,positive
+5,Barang datang rusak dan mengecewakan,negative
+6,Tidak sesuai ekspektasi saya,negative
+7,"Produk lumayan oke, tapi bisa lebih baik",neutral
+8,Sangat direkomendasikan! Kualitas premium,positive
+9,Waktu pengiriman terlalu lama,negative
+10,"Cukup baik, tapi tidak luar biasa",neutral
+11,Pengalaman berbelanja yang menyenangkan,positive
+12,Paket tidak lengkap saat diterima,negative
+13,Harga murah tapi kualitasnya bagus,positive
+14,Tampilan produk beda dari gambar,negative
+15,Produk sesuai deskripsi dan bekerja baik,positive
+16,Terlalu kecil dan tidak cocok dipakai,negative
+17,Puas dengan layanan penjual,positive
+18,"Netral saja, belum digunakan",neutral
+19,Barang berkualitas dan harga terjangkau,positive
+20,Produk mengecewakan dan tidak layak dibeli,negative
